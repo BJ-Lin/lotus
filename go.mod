@@ -1,6 +1,6 @@
 module github.com/filecoin-project/lotus
 
-go 1.16
+go 1.167
 
 require (
 	contrib.go.opencensus.io/exporter/jaeger v0.1.0
